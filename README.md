@@ -5,6 +5,7 @@ Las metricas importantes a utilizar son el valor total con impuestos, la fecha d
 Se utiliza el valor unitario de los medicamentos para realizar comparaciones en las graficas de medicamentos mas costosos.
 
 ## Analisis en POWER BI
+
 0.5v 26/01/05 Analisis realizado en power bi donde se realizan dashboards explorativos y de presentacion
 https://github.com/franco12321232-star/analisis-compras-hospital-publico/blob/Analisis-compra-agil-hospital-publico-powerbi/readmepowerbi.md
 -------------------------------------------------------------------------------------------------------------------------------------------------
