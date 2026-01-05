@@ -8,7 +8,7 @@ Se utiliza el valor unitario de los medicamentos para realizar comparaciones en 
 
 0.5v 26/01/05 Analisis realizado en power bi donde se realizan dashboards explorativos y de presentacion
 https://github.com/franco12321232-star/analisis-compras-hospital-publico/blob/Analisis-compra-agil-hospital-publico-powerbi/readmepowerbi.md
--------------------------------------------------------------------------------------------------------------------------------------------------
+
 Las interrogantes son:
 
  Cerca de periodos suceden las faltas de stock en farmacia ambulatoria?
