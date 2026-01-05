@@ -4,8 +4,6 @@ Este Informe se realiza con el proposito de resolver preguntas y esclarecer el c
 Las metricas importantes a utilizar son el valor total con impuestos, la fecha de envio de las ordenes de compra y la cantidad de ordenes totales del hospital.
 Se utiliza el valor unitario de los medicamentos para realizar comparaciones en las graficas de medicamentos mas costosos.
 
-Enlace a version PowerBI: DOCS/readmepowerbi.md
-
 Las interrogantes son:
 
  Cerca de periodos suceden las faltas de stock en farmacia ambulatoria?
