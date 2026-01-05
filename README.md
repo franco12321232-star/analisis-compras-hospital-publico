@@ -1,4 +1,4 @@
-# cautious-giggle
+# Analisis-compras-hospital-publico
 # Introduccion
 Este Informe se realiza con el proposito de resolver preguntas y esclarecer el contexto acerca de las ordenes de compra de la unidad de Farmacia ambulatoria del Hospital Dr.Lautaro Navarro de la region de Magallanes. Con la necesidad de identificar informacion y posibles factores que sean importantes respecto a las transacciones de tipo compra agil, donde se intentara investigar las razones acerca de variaciones entre los años 2024 y 2025 sobre el gasto en ordenes de compra y la identificacion de medicamentos de alto costo con los que la farmacia ha adquirido, con el proposito de dejar en contexto el estudio acerca de flujo de ordenes y causa de ellas. 
 Las metricas importantes a utilizar son el valor total con impuestos, la fecha de envio de las ordenes de compra y la cantidad de ordenes totales del hospital.
